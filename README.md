@@ -34,7 +34,7 @@ Squad leaders will regularly check on your progress to ensure you're on track to
 
 #### Necessary Deliverables (_Your application must meet these requirements_):
 
-1. Built with HTML, CSS, JavaScript and _jQuery_
+1. Built with HTML, CSS, and JavaScript
 2. Hosted on Vercel, Netlify, or GitHub pages.
 3. Use AJAX to make a request to an external data source like OMDBapi and insert some of the data retrieved into the DOM
 4. Frequent Commits to github dating back to the very beginning of the project
@@ -163,7 +163,7 @@ You will recieve 5 minutes to present your project and show your code to classma
 
 - **Commit early, commit often.** Don't be afraid to break something because you can always go back in time to a previous version.
 
-- **Consult documentation resources** (MDN, jQuery, etc.) at home to better understand what you'll be getting into.
+- **Consult documentation resources** (MDN, w3schools, etc.) at home to better understand what you'll be getting into.
 
 <br>
 <br>
@@ -186,7 +186,7 @@ You will recieve 5 minutes to present your project and show your code to classma
 
 ## Example Project Functionality
 
-Below is a very simple project idea using OMDB and jQuery, notice how functionality was emphasized over style? <br>**(please note, your project should include more styling than this):**
+Below is a very simple project idea using OMDB and jQuery (an alternative to vanilla JS), notice how functionality was emphasized over style? <br>**(please note, your project should include more styling than this):**
 
 ![Example Project](https://i.imgur.com/L6hwHMR.gif)
 
@@ -199,6 +199,5 @@ Consider framing your project around a problem. For example, if I were to create
 ## Useful Resources
 
 - **[MDN Javascript Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)**
-- **[jQuery Docs](https://api.jquery.com)**
 - **[GitHub Pages](https://pages.github.com)**
 - **[Trello](trello.com)**
