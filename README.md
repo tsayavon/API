@@ -1,9 +1,6 @@
 # Project One: Your First Web Application
 
 <br>
-<br>
-<br>
-<br>
 
 ## Expectations & Attendance During Project Periods
 
